@@ -19,7 +19,7 @@ namespace jyankenbattle
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-
+                //コメント変更
         }
 
         private void Form1_Load(object sender, EventArgs e)
